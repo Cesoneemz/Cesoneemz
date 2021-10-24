@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Cesoneemz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cesoneemz&show_icons=true&hide_border=true&theme=merko" />
+  <img align="left" alt="Cesoneemz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cesoneemz&show_icons=true&hide_border=true" />
 
 </details>
 
