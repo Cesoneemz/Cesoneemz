@@ -1,6 +1,6 @@
 ### Hi there, I'm Danila
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cesoneemzz&color=red?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCesoneemz&screen_name=cesoneemzz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cesoneemzz?color=red&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCesoneemz&screen_name=cesoneemzz)
 [![Message in telegram](https://img.shields.io/badge/message-cesoneemz-red?style=for-the-badge&logo=telegram)](https://t.me/Cesoneemz)
 
 
